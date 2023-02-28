@@ -29,6 +29,10 @@ class Enemy:
 
 Enemy1 = Enemy("Sephrioth", 200,20,5)
 
+
+
+
+
     
 
 
