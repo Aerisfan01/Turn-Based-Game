@@ -14,4 +14,4 @@ if things go sideways the discord theme can be used as it can help people with c
 4) Im not sure at this point in time 
 
 
-
+Chapter 2 stuff in NELSON BRANCH 
